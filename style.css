@@ -19,7 +19,7 @@ body {
     background-color: white;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    box-shadow: 8px 7px 9px rgb(24, 41, 103);
+/*     box-shadow: 8px 7px 9px rgb(24, 41, 103); */
     margin: 50px;
 }
 
